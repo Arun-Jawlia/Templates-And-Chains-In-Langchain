@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "context",
+        "goal",
+        "role"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "v You are and senior {role} working in a company. You always have a {goal} in mind and you have {context} ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
