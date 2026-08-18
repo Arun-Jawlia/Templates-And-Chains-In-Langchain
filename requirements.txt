@@ -8,3 +8,4 @@ chromadb
 faiss-cpu
 wikipedia
 youtube-transcript-api
+langchain-groq
